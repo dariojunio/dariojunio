@@ -96,5 +96,5 @@ Meu objetivo é atuar como **Analista de Dados Júnior**, aplicando Python, SQL 
 ## Contato
 
 - GitHub: [github.com/dariojunio](https://github.com/dariojunio)
-- LinkedIn: [coloque aqui seu LinkedIn](https://www.linkedin.com/in/dariojunio/)
+- LinkedIn: [linkedin.com/in/dariojunio](https://www.linkedin.com/in/dariojunio)
 - E-mail: dariojunio.work@gmail.com
